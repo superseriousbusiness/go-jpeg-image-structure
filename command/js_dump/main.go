@@ -8,10 +8,10 @@ import (
 	"io/ioutil"
 
 	"github.com/dsoprea/go-iptc"
-	"github.com/dsoprea/go-logging"
+	log "github.com/dsoprea/go-logging"
 	"github.com/jessevdk/go-flags"
 
-	"github.com/dsoprea/go-jpeg-image-structure"
+	jpegstructure "github.com/superseriousbusiness/go-jpeg-image-structure"
 )
 
 // TODO(dustin): Add comments to all of these structs.

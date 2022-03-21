@@ -9,9 +9,9 @@ import (
 	"encoding/json"
 	"os/exec"
 
-	"github.com/dsoprea/go-logging"
+	log "github.com/dsoprea/go-logging"
 
-	"github.com/dsoprea/go-jpeg-image-structure"
+	jpegstructure "github.com/superseriousbusiness/go-jpeg-image-structure"
 )
 
 var (

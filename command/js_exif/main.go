@@ -8,9 +8,9 @@ import (
 	"io/ioutil"
 
 	"github.com/dsoprea/go-exif/v2"
-	"github.com/dsoprea/go-jpeg-image-structure"
-	"github.com/dsoprea/go-logging"
+	log "github.com/dsoprea/go-logging"
 	"github.com/jessevdk/go-flags"
+	jpegstructure "github.com/superseriousbusiness/go-jpeg-image-structure"
 )
 
 var (
