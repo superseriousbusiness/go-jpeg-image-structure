@@ -1,7 +1,6 @@
-[![Build Status](https://travis-ci.org/dsoprea/go-jpeg-image-structure.svg?branch=master)](https://travis-ci.org/dsoprea/go-jpeg-image-structure)
-[![codecov](https://codecov.io/gh/dsoprea/go-jpeg-image-structure/branch/master/graph/badge.svg?token=Twxyx7kpAa)](https://codecov.io/gh/dsoprea/go-jpeg-image-structure)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dsoprea/go-jpeg-image-structure/v2)](https://goreportcard.com/report/github.com/dsoprea/go-jpeg-image-structure/v2)
-[![GoDoc](https://godoc.org/github.com/dsoprea/go-jpeg-image-structure/v2?status.svg)](https://godoc.org/github.com/dsoprea/go-jpeg-image-structure/v2)
+***This repository now lives at Codeberg: https://codeberg.org/superseriousbusiness/go-jpeg-image-structure***
+
+***This repository is a read-only archive.***
 
 ## Overview
 
